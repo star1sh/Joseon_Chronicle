@@ -4,11 +4,10 @@
 한국 전통 설화를 기반으로 한  
 **AI 텍스트 시뮬레이션 RPG** 게임
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Unity-2022.3-green?style=flat-square&logo=Unity" />
-  <img src="https://img.shields.io/badge/MySQL-DB-blue?style=flat-square&logo=mysql" />
-  <img src="https://img.shields.io/badge/Genre-TextRPG-red?style=flat-square" />
-</p>
+![image](https://github.com/user-attachments/assets/66bb12f6-14af-43d2-b243-8bce5cde31f7)
+
+![image](https://github.com/user-attachments/assets/8f5e392a-5e73-43b3-a93c-b4b7b981edfb)
+
 
 ---
 
@@ -20,6 +19,8 @@
 **조선기행서 (Joseon Chronicles)** 는 AI 플레이 분석 기술과 한국 고유의 설화 세계관을 접목한 신개념 캐주얼 RPG입니다.  
 사용자의 선택과 취향을 분석해 몰입감 있는 스토리를 자동 생성하고,  
 복잡한 규칙과 반복된 루틴 없이도 새로운 세계를 경험할 수 있습니다.
+
+본 프로젝트는 2025 ICT창업캡스톤2의 일환으로, 콘텐츠깎는 청년의 기업캡스톤으로 진행되었습니다.
 
 ---
 
