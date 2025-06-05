@@ -66,11 +66,11 @@
 
 | 이름 | 역할 | GitHub |
 |------|------|--------|
-| **신동빈** | 팀장, 개발 | [@dongbin-shin](https://github.com/dongbin-shin) |
-| **임동희** | 메인 기획, 디자인 | [@imdonghui](https://github.com/imdonghui) |
-| **하가은** | 기획, 개발 | [@gaeun-ha](https://github.com/gaeun-ha) |
+| **신동빈** | 팀장, 개발 | [@dobi02](https://github.com/dobi02) |
+| **임동희** | 메인 기획, 디자인 | [@star1sh](https://github.com/star1sh) |
+| **하가은** | 기획, 개발 | [@Gaeun7733](https://github.com/Gaeun7733) |
 | **조성빈** | 메인 개발 | [@seongbin-jo](https://github.com/seongbin-jo) |
-| **박동준** | 서버/시스템 | [@dongjun-park](https://github.com/dongjun-park) |
+| **박동준** | 서버/시스템 | [@pdjdev](https://github.com/pdjdev) |
 | **유영민** | 게임 개발 | [@youngmin-yoo](https://github.com/youngmin-yoo) |
 
 > 💡 위 GitHub 링크는 예시입니다. 실제 계정 ID에 맞춰 수정해 주세요.
