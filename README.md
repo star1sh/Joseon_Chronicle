@@ -1,8 +1,7 @@
 
 # 🐲 조선기행서 (Joseon Chronicles)
 
-한국 전통 설화를 기반으로 한  
-**AI 텍스트 시뮬레이션 RPG** 게임
+한국 전통 설화를 기반으로 한  **AI 텍스트 시뮬레이션 RPG** 게임
 
 ![image](https://github.com/user-attachments/assets/66bb12f6-14af-43d2-b243-8bce5cde31f7)
 ![image](https://github.com/user-attachments/assets/44d0ae06-3761-473f-b91f-8391c394d57c)
@@ -12,7 +11,7 @@
 ---
 
 ## ✨ 프로젝트 소개
-*본 프로젝트는 2025 ICT창업캡스톤2의 일환으로, 콘텐츠깎는 청년의 기업캡스톤으로 진행되었습니다.*
+*본 프로젝트는 2025 ICT창업캡스톤2의 일환으로, 콘텐츠깎는청년의 멘토링을 받은 기업캡스톤으로 진행되었습니다.*
 
 > AI가 만들어주는, 나만의 한국 설화 속 이야기  
 > 반복적이고 지루했던 텍스트 RPG는 이제 그만!
