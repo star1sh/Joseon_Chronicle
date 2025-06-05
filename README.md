@@ -45,20 +45,7 @@
 | AI | 내장형 분기 알고리즘 (태그 기반 추천) |
 | Tool | Git, Figma, Notion |
 
----
 
-## 🗂️ 폴더 구조
-
-```bash
-📁 Joseon-Chronicles
-├── docs/                    # 사업계획서 및 발표자료
-│   ├── 01_Business_Plan.pdf
-│   └── 02_Presentation_Slides.pdf
-├── planning/                # 일정표, 전략 요약
-├── team/                    # 팀원 정보 및 사진
-├── prototype/               # Unity, UI 시안 등
-└── README.md
-```
 
 ---
 
