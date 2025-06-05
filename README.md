@@ -93,7 +93,7 @@
 ## 📎 문서 보기
 
 - 📄 [사업계획서 보기](./docs/01_Business_Plan.pdf)
-- 🎞️ [발표용 슬라이드](./docs/02_Presentation_Slides.pdf)
+- 🎞️ [발표용 슬라이드](./Proposal_Documents/CIC_조선기행서.pdf)
 
 ---
 
